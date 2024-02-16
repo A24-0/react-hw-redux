@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Product from "./Product.tsx";
 import { Button, ButtonGroup } from "@chakra-ui/react";
-import ProductItem from "../types/ProductItem.ts";
+import ProductItem from "./ProductItem.ts";
 import './styles.css';
 
 interface ProductPageProps {

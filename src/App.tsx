@@ -1,5 +1,5 @@
 import './App.css'
-import ProductItem from "./types/ProductItem.ts"
+import ProductItem from "./components/ProductItem.ts"
 import ProductsPages from "./components/ProductsPages.tsx"
 
 function App() {
